@@ -5,7 +5,7 @@
 
 # HIGO Fullstack
 This repository showcases the development of HIGO, a bike rental application prototype that allows users to easily rent bicycles. The app benefits responsible users who park their bikes properly by giving them discounts on their next trips. To qualify for the discounts, users simply need to take a photo of their bike and its location. HIGO is developed using React Native and Java.
-
+ 
 
 ## Steps to Setup
 
